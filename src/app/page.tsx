@@ -9,7 +9,7 @@ import AvatarE from "./assets/avatare.svg";
 
 export default function Home() {
   return (
-    <main className="grid m-auto grid-cols-1 xl:grid-cols-4 xl:grid-rows-2 gap-x-[30px] gap-y-6 px-6 py-[71px] xl:px-[165px] xl:py-[164px]">
+    <main className="grid m-auto scroll-smooth grid-cols-1 xl:grid-cols-4 xl:grid-rows-2 gap-x-[30px] gap-y-6 px-6 py-[71px] xl:px-[165px] xl:py-[164px]">
       <div className="col-span-1 row-span-1 rounded-lg  xl:col-start-1 xl:col-end-3 bg-[#733FC8]">
         <div className="px-8 pb-8 pt-[26px] relative  z-20">
           <Card
