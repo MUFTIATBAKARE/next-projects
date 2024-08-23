@@ -1,5 +1,5 @@
 import Image from "next/image";
-import HeroImage from "./assets/Image.png";
+import HeroImage from "./assets/Bitmap.svg";
 
 export default function Home() {
   return (
